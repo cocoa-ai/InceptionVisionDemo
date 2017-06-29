@@ -5,7 +5,7 @@ dominant objects presented in a live video feed from a set of 1000 categories
 such as trees, animals, food, vehicles, people, and more.
 
 <div align="center">
-<img src="https://github.com/cocoa-ml/InceptionVisionDemo/blob/master/Screenshot.png" alt="InceptionVisionDemo" width="300" height="534" />
+<img src="https://github.com/cocoa-ai/InceptionVisionDemo/blob/master/Screenshot.png" alt="InceptionVisionDemo" width="300" height="534" />
 </div>
 
 ## Model
@@ -20,7 +20,7 @@ This demo uses "Inception v3" [CoreML model](https://developer.apple.com/machine
 ## Installation
 
 ```sh
-git clone https://github.com/cocoa-ml/InceptionVisionDemo.git
+git clone https://github.com/cocoa-ai/InceptionVisionDemo.git
 cd InceptionVisionDemo
 pod install
 open InceptionVisionDemo.xcworkspace/
