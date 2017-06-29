@@ -1,0 +1,16 @@
+PODS:
+  - VisionLab (0.1.0)
+
+DEPENDENCIES:
+  - VisionLab (from `../VisionLab`)
+
+EXTERNAL SOURCES:
+  VisionLab:
+    :path: "../VisionLab"
+
+SPEC CHECKSUMS:
+  VisionLab: 5be1c3c327a521a510d3407792f1b3103f4f7d14
+
+PODFILE CHECKSUM: 81c5e51630fb643c2b26ce4329ff9ffddd35623d
+
+COCOAPODS: 1.2.1
