@@ -27,7 +27,7 @@ open InceptionVisionDemo.xcworkspace/
 ```
 
 Download the CoreMl model from https://developer.apple.com/machine-learning/
-and drag the file into your project.
+and add the file to "Resources" folder in the project's directory.
 
 Build the project and run it on a simulator or a device with iOS 11.
 
