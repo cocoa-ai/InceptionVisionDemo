@@ -23,7 +23,7 @@ This demo uses "Inception v3" [CoreML model](https://developer.apple.com/machine
 git clone https://github.com/cocoa-ai/InceptionVisionDemo.git
 cd InceptionVisionDemo
 pod install
-open InceptionVisionDemo.xcworkspace/
+open Inception.xcworkspace/
 ```
 
 Download the CoreMl model from https://developer.apple.com/machine-learning/
