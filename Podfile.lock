@@ -1,16 +1,16 @@
 PODS:
-  - VisionLab (0.1.0)
+  - VisionLab (0.2.0)
 
 DEPENDENCIES:
   - VisionLab (from `../VisionLab`)
 
 EXTERNAL SOURCES:
   VisionLab:
-    :path: "../VisionLab"
+    :path: ../VisionLab
 
 SPEC CHECKSUMS:
-  VisionLab: 5be1c3c327a521a510d3407792f1b3103f4f7d14
+  VisionLab: 6fc2dcc1f731dd21891c7bd9878a93c0526bfc91
 
 PODFILE CHECKSUM: 81c5e51630fb643c2b26ce4329ff9ffddd35623d
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.3.1

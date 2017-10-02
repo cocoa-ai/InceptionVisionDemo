@@ -67,7 +67,7 @@ private extension ViewController {
     do {
       let model = try VNCoreMLModel(for: Inceptionv3().model)
       let classificationRequest = VNCoreMLRequest(model: model, completionHandler: handleClassifications)
-      classificationRequest.imageCropAndScaleOption = VNImageCropAndScaleOptionCenterCrop
+      classificationRequest.imageCropAndScaleOption = VNImageCropAndScaleOption.centerCrop
       requests = [classificationRequest]
     } catch {
       assertionFailure("can't load Vision ML model: \(error)")
